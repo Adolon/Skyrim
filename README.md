@@ -1,3 +1,8 @@
+**HavokKiller**
+
+Kill Havok by attaching script to an object.
+
+
 **OnActivateArmor**
 
 Add a piece of armor to the player's inventory and display a message upon activation of a primitive or activator.
